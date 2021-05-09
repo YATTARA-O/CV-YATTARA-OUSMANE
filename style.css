@@ -64,8 +64,9 @@ body {
     border: 1px solid #f2f2f2;
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
-    width: 23px;
+    width: 30px;
     background-color: green;
+ 
   }
   .recherche {
     border: none;
