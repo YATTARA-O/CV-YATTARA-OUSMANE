@@ -57,7 +57,7 @@ body {
     font-size: 16px;
     color: rgb(10, 4, 4);
     font-weight: bolder;
-    align-self: center;
+    text-align: center;
   }
   .fa-map-marker-alt {
     padding: 16px 16px;
@@ -65,7 +65,7 @@ body {
     border-top-left-radius: 15px;
     border-bottom-left-radius: 15px;
     width: 23px;
-    background-color: #0065fc;
+    background-color: green;
   }
   .recherche {
     border: none;
@@ -79,7 +79,7 @@ body {
     height: 50px;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
-    background-color: #0065fc;
+    background-color: green;
     color: white;
     font-size: 14px;
     font-weight: bolder;
@@ -123,6 +123,7 @@ body {
     font-size: 20px;
     margin-left: 20px;
     background-image: url(Photos/Background.jpg);
+    border-radius: 20px;
   }
   .navbar {
     padding: 10px 10px;
@@ -145,7 +146,7 @@ body {
     margin: auto;
   }
   #video h1 {
-    color: white;
+    color: black;
     text-align: center;
   }
   video {
